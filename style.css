@@ -11,9 +11,15 @@ section,
 summary {
  display:block
 }
-body {
- height:100%;
- font:400 1em/1.8 'Microsoft Yahei', 'PingFang SC', 'Avenir', 'Segoe UI', 'Hiragino Sans GB', STHeiti, 'Microsoft Sans Serif', 'WenQuanYi Micro Hei', sans-serif
+html, button, input, select, textarea {
+    font-family: "Helvetica Neue",Helvetica,Arial,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",sans-serif;
+    font-size: 14px;
+  		word-wrap: break-word;
+				color: #333;
+				margin-bottom: 15px;
+				text-indent: 2em;
+				line-height: 24px;
+				text-decoration: none;
 }
 audio,
 canvas,
