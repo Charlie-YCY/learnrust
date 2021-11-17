@@ -14,12 +14,12 @@ summary {
 html, button, input, select, textarea {
     font-family: "Helvetica Neue",Helvetica,Arial,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",sans-serif;
     font-size: 14px;
-  		word-wrap: break-word;
-				color: #333;
-				margin-bottom: 15px;
-				text-indent: 2em;
-				line-height: 24px;
-				text-decoration: none;
+	word-wrap: break-word;
+	color: #333;
+	margin-bottom: 15px;
+	text-indent: 2em;
+	line-height: 24px;
+	text-decoration: none;
 }
 audio,
 canvas,
